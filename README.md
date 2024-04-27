@@ -10,7 +10,7 @@
 <img src="plot.gif" alt="plot" width="200" height="auto">
     
 
-<h2 align="center">OncoPy - Lightweight Oncological Analysis Package
+<h2 align="center">Pyris - Eye Tracking/Mapping Package for Python
 <h3 align="center">Tumor Detection & Classification Network</h3>
   <p align="center">
     A convolutional neural network design for detecting pituitary tumors, gliomas, and meningiomas from MRI images. In the future, this model will be expanded into a lightweight, open source oncology toolkit package for python.
