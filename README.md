@@ -6,7 +6,7 @@
 <br />
 <div align="center">
   <a href=[github-url]>
-    <img src="logo.png" alt="Logo" width="80" height="80">
+    <img src="face_demo.gif" alt="Logo" width="80" height="80">
   </a>
 
 <h2 align="center">OncoPy - Lightweight Oncological Analysis Package
