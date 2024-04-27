@@ -10,10 +10,10 @@
 <img src="plot.gif" alt="plot" width="200" height="auto">
     
 
-<h2 align="center">Pyris - Eye Tracking/Mapping Package for Python
-<h3 align="center">Tumor Detection & Classification Network</h3>
+<h2 align="center">Pyris - Eye Tracking/Mapping With Python
+<h3 align="center">For Diagnostic Research</h3>
   <p align="center">
-    A convolutional neural network design for detecting pituitary tumors, gliomas, and meningiomas from MRI images. In the future, this model will be expanded into a lightweight, open source oncology toolkit package for python.
+    I plan to develop this further, and use it to collect formatted (n, 2, 2) data for machine learning models which can aid in medical diagnosis. Ocular Video Analysis has the potential to be a cheap but effective method to quickly scan patients for certain (primarily neurological) conditions. I will continue to develop this tool, in order to test its viability as a diagnostic aid.
     <br />
     <a href=[github-url]><strong>Explore the docs »</strong></a>
     <br />
