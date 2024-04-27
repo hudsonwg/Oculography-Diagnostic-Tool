@@ -7,7 +7,7 @@
 <div align="center">
   
 <img src="face_demo.gif" alt="Logo" width="200" height="200">
-<img src="plot_demo.gif" alt="plot" width="200" height="auto">
+<img src="plot.gif" alt="plot" width="200" height="auto">
     
 
 <h2 align="center">OncoPy - Lightweight Oncological Analysis Package
