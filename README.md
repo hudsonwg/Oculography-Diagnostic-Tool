@@ -5,10 +5,10 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href=[github-url]>
-    <img src="face_demo.gif" alt="Logo" width="200" height="200">
+  
+<img src="face_demo.gif" alt="Logo" width="200" height="200">
+<img src="plot_demo.gif" alt="plot" width="200" height="200">
     
-  </a>
 
 <h2 align="center">OncoPy - Lightweight Oncological Analysis Package
 <h3 align="center">Tumor Detection & Classification Network</h3>
